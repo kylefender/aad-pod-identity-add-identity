@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  aad-pod-add-identity:
+  - apiVersion: v1
+    appVersion: 1.5.6
+    created: "2020-05-11T13:36:31.8402492-04:00"
+    description: Deploy identity for aad-pod-identity
+    digest: c12e8472cebf35725cfc7a82f663a09c5416e1caae62b486bb196083ae690aa4
+    home: https://github.com/kylefender/aad-pod-identity-add-identity
+    name: aad-pod-add-identity
+    sources:
+    - https://github.com/kylefender/aad-pod-identity-add-identity
+    urls:
+    - http://kylefender.github.io/aad-pod-identity-add-identity/aad-pod-add-identity-1.5.6.tgz
+    version: 1.5.6
+generated: "2020-05-11T13:36:31.8402492-04:00"
